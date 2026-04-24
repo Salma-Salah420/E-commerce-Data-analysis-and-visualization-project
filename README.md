@@ -1,5 +1,5 @@
-# E-commerce-Data-analysis-and-visualization-project
-# 📊 E-Commerce Sales Performance Dashboard
+
+#  E-Commerce Sales Performance Dashboard
 
 ## 📌 Project Overview
 ------------------------
